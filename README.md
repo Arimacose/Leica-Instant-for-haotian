@@ -2,8 +2,6 @@
 
 面向 **小米 15 Pro（haotian）** 的徕卡一瞬相机适配测试版，当前版本 **15PRO.R1.1004a**。
 
-基于 [Starry0214 在酷安发布的徕卡一瞬相机](https://www.coolapk.com/feed/74022974) 做机型适配。原包以小米 15 Ultra 为目标，本仓库提供小米 15 Pro 的 R1 适配 APK。原应用、模型、原生库及相关商标属于各自权利人；本项目为第三方适配，并非小米或徕卡官方项目。
-
 ## 下载
 
 - **[下载 Leica-15Pro-R1.apk](https://github.com/Arimacose/Leica-Instant-for-haotian/releases/download/r1-20261004/Leica-15Pro-R1.apk)**
@@ -18,9 +16,6 @@ APK 存放在 **Releases**。GitHub 自动生成的 “Source code (zip/tar.gz)�
 | 应用包名 | `com.starry.leica` |
 | versionName | `15PRO.R1.1004a` |
 | versionCode | `660005607` |
-| APK 大小 | 387,019,547 字节 |
-
-验收手机已开放 Root。其他 ROM、非 Root 环境及其他机型未做等价验证。
 
 ## 适配内容
 
@@ -28,7 +23,7 @@ APK 存放在 **Releases**。GitHub 自动生成的 “Source code (zip/tar.gz)�
 - 核对 2.6×、3.2× 中间倍率，明亮远景的 5× 照片已确认使用实体长焦。
 - 保留 M9、M3、M10R 影调、AI 构图自动拍摄、肤色保护及夜景增强开关。
 - 接入原生录像模块，包含分辨率、帧率、杜比视界、音频、编码和保存；修复录像初始化、资源查找及 Android 17 对焦调用兼容问题。
-- 保留 **1080p / 4K、30 / 60 fps、SDR / Dolby Vision**；**移除 120 fps**。
+- 保留 **1080p / 4K、30 / 60 fps、SDR / Dolby Vision**；
 - 应用独立安装；适配改动位于本应用内，未修改官方相机 APK 或 vendor 录像配置。
 
 ## 验证范围与已知限制
@@ -37,12 +32,11 @@ APK 存放在 **Releases**。GitHub 自动生成的 “Source code (zip/tar.gz)�
 
 官方相机额外回归覆盖前后摄拍照、录像八档及录制中连续变焦，未观察到新增崩溃或 ANR；官方 APK 与两份 vendor 录像配置前后哈希相同。该结果针对所列测试环境，不保证未测模式或以后 ROM 的兼容性。
 
-- 最后一轮室内录像的高倍率由 SAT 回退到主摄；强光远景中由真实长焦传感器录像尚未取得通过证据。
 - 标准立体声 AAC 已验证；音频变焦、定向收音等高级音频功能未完成等价验证。
 - 原生界面可能保留 720p30，该档不在专项矩阵内。
 - 拍照通路观察到 OIS ON；录像使用原生防抖策略，测试中为 EIS ON / OIS OFF，没有机械防抖效果测量。
 - 夜景开关及 MFNR 请求/返回已核对，画质收益未做量化。
-- 15 Pro 的三枚后摄无法提供 15 Ultra 第四枚传感器的硬件能力。
+- 15 Pro 的三枚后摄无法提供 17 Ultra 第四枚传感器的硬件能力。
 
 本版本作为 **预发布测试版** 提供。
 
@@ -62,7 +56,6 @@ adb install -r Leica-15Pro-R1.apk
 a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc
 ```
 
-公开测试私钥不能建立可信的发布者身份；本版本适用于自愿测试，不应将其视为生产级签名。仓库不包含私钥。
 
 ## 文件校验
 
