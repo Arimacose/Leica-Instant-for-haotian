@@ -1,13 +1,15 @@
 # Leica一瞬 for haotian
 
-当前新增 **R2 首版能力适配测试包（15PRO.R2.1005a）**。它已经接入实际 APK，但尚未实机验证，作为预发布版提供；R1 保留原发布状态。
+当前新增 **R2 更新验证版 1005b（15PRO.R2.1005b）**：补会话状态复位、按会话识别预览结果、提前启动 stop/release 超时，并接入独立公开 SDR 录像后端。
 
-- **[下载 R2 APK](https://github.com/Arimacose/Leica-Instant-for-haotian/releases/download/r2-20261005a/Leica-15Pro-R2.apk)**
-- [R2 改动、验证边界与已知限制](R2.md)
-- [R2 Release 与源码/校验文件](https://github.com/Arimacose/Leica-Instant-for-haotian/releases/tag/r2-20261005a)
-- [R1 发布页](https://github.com/Arimacose/Leica-Instant-for-haotian/releases/tag/r1-20261004)
+- **[下载 R2 1005b APK](https://github.com/Arimacose/Leica-Instant-for-haotian/releases/download/r2-20261005b/Leica-15Pro-R2-1005b.apk)**
+- [R2 1005b 改动、使用方式、测试结果与限制](R2.md)
+- [R2 1005b Release / 实际适配代码 / 校验文件](https://github.com/Arimacose/Leica-Instant-for-haotian/releases/tag/r2-20261005b)
+- [上一版 R2 1005a 说明](R2-1005a.md) · [上一版发布页](https://github.com/Arimacose/Leica-Instant-for-haotian/releases/tag/r2-20261005a)
 
-R2 增加能力快照、按录像配置核对能力、单路/双路 YUV 回退、Android16 公共接口兼容和录像收尾/保存恢复。它仍使用原生录像后端；独立公共 SDR 后端尚未接入。OS3/Android16 和 OS4.0.0.17 的问题仍需受影响设备验证。
+本版作为 **预发布验证版**。普通 SDR 点击录制进入独立兼容页面；该通路提供普通影调，未完成徕卡录像 LUT 等价处理。杜比保留原增强后端，超级防抖未获得跨系统效果验证。
+
+Android 16 模拟器上已验证保存、连续录制、封装与完整解码，以及 10 项合成停止/回调断言。模拟器实际帧率没有达到所选 30fps；没有小米 15 Pro 真机验证，不能宣称 HyperOS3/4 的反馈故障已修复。上一版 R2 和 R1 的发布文件保留。
 
 ---
 
