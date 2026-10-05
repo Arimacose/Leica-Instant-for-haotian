@@ -1,5 +1,18 @@
 # Leica一瞬 for haotian
 
+当前新增 **R2 首版能力适配测试包（15PRO.R2.1005a）**。它已经接入实际 APK，但尚未实机验证，作为预发布版提供；R1 保留原发布状态。
+
+- **[下载 R2 APK](https://github.com/Arimacose/Leica-Instant-for-haotian/releases/download/r2-20261005a/Leica-15Pro-R2.apk)**
+- [R2 改动、验证边界与已知限制](R2.md)
+- [R2 Release 与源码/校验文件](https://github.com/Arimacose/Leica-Instant-for-haotian/releases/tag/r2-20261005a)
+- [R1 发布页](https://github.com/Arimacose/Leica-Instant-for-haotian/releases/tag/r1-20261004)
+
+R2 增加能力快照、按录像配置核对能力、单路/双路 YUV 回退、Android16 公共接口兼容和录像收尾/保存恢复。它仍使用原生录像后端；独立公共 SDR 后端尚未接入。OS3/Android16 和 OS4.0.0.17 的问题仍需受影响设备验证。
+
+---
+
+## R1 历史说明与验收范围
+
 面向 **小米 15 Pro（haotian）** 的徕卡一瞬相机适配测试版，当前版本 **15PRO.R1.1004a**。
 
 ## 下载
