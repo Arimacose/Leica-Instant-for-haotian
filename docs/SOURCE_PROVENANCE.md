@@ -27,6 +27,11 @@ upstream classes, embedded donor components, native libraries, and image assets
 are outside this publication. No claim is made that all code added anywhere in
 the composite APK is covered by this snapshot.
 
+Repository text uses LF line endings. Source-manifest hashes describe the
+published UTF-8 files after that line-ending normalization, rather than the
+historical Windows working copies. No implementation changes are introduced by
+the normalization.
+
 ## Evidence
 
 - [Source hashes](source-manifest.json)

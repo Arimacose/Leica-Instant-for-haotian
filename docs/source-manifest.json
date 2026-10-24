@@ -24,27 +24,27 @@
     },
     {
       "path": "src/main/java/org/haotian/palette/NativeFilters.java",
-      "sha256": "d7154dfe4db7ca924dc774ef2503f0865b9d1cab201ab908f1e9aa160eec1f59",
+      "sha256": "9a37e4331cf6f910fd31d3f46afc314760a9d989e44c79cbd5f05b1228ce2484",
       "origin": "retained adaptation Java source"
     },
     {
       "path": "src/main/java/org/haotian/palette/NativeFilterUi.java",
-      "sha256": "d09de15b5e0ea5c542197f473d4d626b9545f88be95b3708c5c15587b047ccbc",
+      "sha256": "3a97c0ff1295c1a31e50c747faea5e877f5003eac2a02552196f50cc81826535",
       "origin": "retained adaptation Java source"
     },
     {
       "path": "src/main/java/org/haotian/palette/OriginalQr.java",
-      "sha256": "3660ed37d2c1b24710ccd63bd62c9e8e2a61f07b3e224073051a1a4094374a07",
+      "sha256": "70a2f6c9693f82122a282d286a2e502abe1ce1c353970788b9730178ceab1f4e",
       "origin": "retained adaptation Java source"
     },
     {
       "path": "src/main/java/org/haotian/palette/OriginalRecipes.java",
-      "sha256": "a6e60a66a0759e59fee5353568aa883293060e1343acd12fabd9230ce0b47b60",
+      "sha256": "d1fdc65da896aaf642fe9cdad6ed3c51c075b9df2cd915168372a3995e76913b",
       "origin": "retained adaptation Java source"
     },
     {
       "path": "src/main/java/org/haotian/palette/OriginalUiRuntime.java",
-      "sha256": "87b9cdc33e9b35de8fc7ee47f68644e84c77acecb83e2e7d8a814c0d44cfe6ac",
+      "sha256": "8d8e55413461710aec7ea11429861a8c0f0a841bea2e9f784293615406bc6dfd",
       "origin": "retained adaptation Java source"
     },
     {
@@ -59,22 +59,22 @@
     },
     {
       "path": "src/main/java/org/haotian/palette/PaletteEngine.java",
-      "sha256": "7b8c508192e7893e44bf8671307e995cc6722fe4b2b19c7c9bef24115b0081b4",
+      "sha256": "b8c6cd6cea0f83a254ed81bcf280c50c43fdb4b369989bc29e4b97efd9f01a4f",
       "origin": "retained adaptation Java source"
     },
     {
       "path": "src/main/java/org/haotian/palette/PalettePreview.java",
-      "sha256": "970751dc379c4b1e15484aaa91e48d44bbdbd483b9cf0cadd6c44dcb0bb78043",
+      "sha256": "60a3f8be6458a0e81ef8094abd2ff38a94128e88efded6b40be92e839be5784c",
       "origin": "retained adaptation Java source"
     },
     {
       "path": "src/main/java/org/haotian/palette/PaletteUi.java",
-      "sha256": "31cf59570ee1cd4459c0b20ab9386136662961cc0e83e05a6464d88cdc1dfdd0",
+      "sha256": "61edc74f68fe8cb36e515b69c7119da11bd98870032274aaaf7233c1ea78b8a5",
       "origin": "retained adaptation Java source"
     },
     {
       "path": "src/main/java/org/haotian/palette/PaletteValues.java",
-      "sha256": "447a0a49e17da326dcfd2958135dd2103f917bd8fd5c3a2f276004975addda47",
+      "sha256": "36e33581755567dc2baa6a45bbaeed55b7b2af8c532402c43d6958f7c29bad63",
       "origin": "retained adaptation Java source"
     },
     {
@@ -99,7 +99,7 @@
     },
     {
       "path": "src/main/java/org/haotian/palette/RecipeAccountAuth.java",
-      "sha256": "0cfa26f987fc939af084331fdde12428317e7550c6152107600735c453ce4480",
+      "sha256": "c5c17b45ceb2a8c3753e8b035a855f7afa4e1ed97432580dddf67a0466e89669",
       "origin": "retained adaptation Java source"
     },
     {
@@ -109,157 +109,157 @@
     },
     {
       "path": "src/main/java/org/haotian/palette/RecipeStore.java",
-      "sha256": "92743ae542c9db4efba78011b2da504784a884383fbfd2ae01f71d1a81874bba",
+      "sha256": "413e655bd5fe1ecf21898948dcf24613314159bf8e83b5330cee915f509b051c",
       "origin": "retained adaptation Java source"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/HaotianPort$0.smali",
-      "sha256": "bb3d20055127f83203a9052d19a58503a13e23fd3fa6322344e40a202f068eff",
+      "sha256": "4e8c1635ee8d35a5190f2a04a300fa42f9ee71c6f5f2e0c72f0e55d5815c9ceb",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/HaotianPort$1.smali",
-      "sha256": "90755d593f3613f0bc7f65a862c0745c1dd5b183b7edc5a7b34c797e39960ab2",
+      "sha256": "b64229e441b275aa45f7fdcf9ef861924c5f336786776258b3f6b8a1a241215e",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/HaotianPort$2.smali",
-      "sha256": "c67fc36d1697085f96644456edbba254b31f0fa5a8da61b9da55e797c66ce592",
+      "sha256": "b975a113d324b2dd075b6311ca8877058b52acf6f45283a6938ec7817bd963bd",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/HaotianPort$3.smali",
-      "sha256": "024864fd3d8d9103ff66c4e915a16d42492ed18b7389f81217a1b8009d266409",
+      "sha256": "90ef3a81b4bc9e79288cd39febd46376fca8697e1b57d2058e8141fd223435e3",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/HaotianPort$4.smali",
-      "sha256": "e86fa7e1e7742071930f534eae4d7382394041ae2130e02e6da77230109effa7",
+      "sha256": "a82e82bb49eaa6565e7a60723663e49ab0960a15191818a12d7e388fcb20e42d",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/HaotianPort$5.smali",
-      "sha256": "d92a41a51edc513652798754a4358bfbe2056ecce9113dc24779453c4c994710",
+      "sha256": "b3a0adcc82e3a24fae9303503e37fc092147af26bb68f9ecf4b246586c4802b8",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/HaotianPort$6.smali",
-      "sha256": "857d1a9cfdfcb281f1fba55a04db69a8d49e73b532c19b220cf44d033e644211",
+      "sha256": "1a4c91fe56a1115ad0ebc3e0939da4870ecf6a866e4093da6e211c52dd78884b",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/HaotianPort$7.smali",
-      "sha256": "ab092272b603cbb475abea483f757c52a86754785b8d3e2fb5f657a983475fa1",
+      "sha256": "76f7fe195b076aff29e6af057c7a0815d96130b4788f1a096e3624a0cd8fcc42",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/HaotianPort$8.smali",
-      "sha256": "0458bd5a269cc91edb43b9cc74569782c80d5cb34d43f75b310536a24c678154",
+      "sha256": "e5068fda60e5a81e4ae04e782e750787624daaea5dff9db583b7a61579d0da06",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/HaotianPort$9.smali",
-      "sha256": "975aaa244bf5df332a0a9acf371ff21e253787812f81805288a601ed7e1db134",
+      "sha256": "d3f886694756c637858f424ce36c20d32836ca4e2f3d9a42c2f733828c6c7450",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/HaotianPort.smali",
-      "sha256": "1c72b2bb2f3a400f9b845cabb6eb35fb67926e2c5145247d67430edce1427f44",
+      "sha256": "bb2b304a5fc785aae17827190dc4f131e0178f4f383cc6991cb1be4e1942b43b",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/NightControls$0.smali",
-      "sha256": "e433e1156510c56948e50b84a8dd8dae6971ce112882787aca8392f518779f6f",
+      "sha256": "d153ef9301328d432009f477a8bf1653a5d6e9d3185e22f93d85a62d017d0e40",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/NightControls$1.smali",
-      "sha256": "3888117fbdae79120e32f636a3ec4e27fed3bb648593f708fbf5df292149fc1c",
+      "sha256": "28c6acefcb01a9c1c83383ed7f46ad4402a320e27a479668076d187255581f6f",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/NightControls$2.smali",
-      "sha256": "106f86453c2c62093186bc71e04bc729421ae8ad87b3711deee8de9548cd0fa6",
+      "sha256": "3b7365864b38afda625a8c8c23c6c60825bd00ce605bd10f4dde0b0842b336d1",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/NightControls$Sync.smali",
-      "sha256": "56008751d58519bcd13a9595e5f06f953fc576f7ef98ad7ba4a3e9225928e453",
+      "sha256": "3cf53e72ea57b8d1dea11cbc47259e9cf7db5adb59dcad8b1f77e97eedf6ca4f",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/NightControls.smali",
-      "sha256": "d61a87d372838b04132d84250c3b161126d72ad568e2a342547b6c93b3495ba3",
+      "sha256": "324605f87a6010d1e1f00af323be76ced0be0d505e3365653838c5252e95e508",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/NightLayout$0.smali",
-      "sha256": "56084a6e3f7f549d08d98b70dc4454458e11a6d91886875db43a13f34449fe30",
+      "sha256": "9d44112cc79444cdeb95eff6c3e6e1a9c325f8dba4b7a3302650ae599617c801",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/NightLayout.smali",
-      "sha256": "883b8f1f88a5ce5e734a5e188faed380b10d421f0f00bb8e1ec055ac3ab68063",
+      "sha256": "c61fa397885e406ae15af9c6f2168d2588282ee53ccd8c2a05e8fcbeb0f2ac1f",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/NightMenuLayout$0.smali",
-      "sha256": "4296a46749be3ab19072978951ee85ee84618f71ec2e2fae54496211127a21d2",
+      "sha256": "e57ef1a64a6bb260e35e9155611003b5077c4c0423f3cad138b0b827f12f850e",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/NightMenuLayout$1.smali",
-      "sha256": "4c91df186b37a69a9527a336dc74cccaae94ec17877ef4d4ca7f7f7259d2281a",
+      "sha256": "6fb5052460cc5061fda5bd30ebecfb5b3e383213172113b3a3dd656faf458fca",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/NightMenuLayout.smali",
-      "sha256": "06043d11646509e261650a1a58c0a9358851d3c125118afd41666162b44c9083",
+      "sha256": "7dfced8889a985a330e498398ce5738974b11c9c15dcd33b6e084ecd4917cf91",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/OemPhotoPolicy.smali",
-      "sha256": "cb54e7eb1e74f0be0179172f2bf35866ea10ab94b00b74286bb4a7cb0a0f5fe0",
+      "sha256": "633bf2c024e28fae63dff7afe472f216c2babdbaa606555d6a34ec4ebcc39c50",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/PhotoControls.smali",
-      "sha256": "bc784fa127e111d8d06215cc584dfd75411d1756c97f5969a8208d3446f6215c",
+      "sha256": "2325d5c7b8e7a78d89f1571db68689fd8b08847611c1248a4bc974e8929244cb",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/R1VideoStop$0.smali",
-      "sha256": "38884b23cf1229b25eafc98c0849b7f54fdcddf25333627001159484647d7f7f",
+      "sha256": "717d1a5e180b4f1bd8a2a710770cfa8988cf4d644452e5c31dc1ff968433a973",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/R1VideoStop$1.smali",
-      "sha256": "f18457806b74f9ab64a75b7a944752b7085c25be9ec836b2e40ed90856b42378",
+      "sha256": "87bdc5849ae2d1d1b3d95c06487c90406023342f53ae69a5ed9eb2a5b80d34ed",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/R1VideoStop$2.smali",
-      "sha256": "79073533683c5380518ee56fb766d02c6a90f4b9d4c0e738838c4c55dac8a043",
+      "sha256": "ba8f573494c185edd7178a7e6826ff077e0eedae7a0d81b57861da7f40101baa",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/R1VideoStop$3.smali",
-      "sha256": "76f540ebf5fb63ecc1f9943edcd5f609524b5cf78d5b7570260a1baa54e0b9ba",
+      "sha256": "afe0fab6b0cb0e8de40c1edad613b7f1268cff1e34851632a575ae92e52e3fe4",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/R1VideoStop$4.smali",
-      "sha256": "3502bd8e86d088e99b291913c48c3eefe9a03fb09a156edbf05cc6210e057792",
+      "sha256": "03272d367dff6fad71309e04b5b8f5d33a7e5f53b08144ad6d095f06c8de8cf7",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/R1VideoStop$Transaction.smali",
-      "sha256": "5de7457702e3e79b52e429e7ba2533e74451365bfbbf4e72ebf0d69ee4f50890",
+      "sha256": "c7d2611ddee34884597b2db2e2ab58b9022c6ddee8b1fdb9fa85639ba4458d52",
       "origin": "R1-d original leicaport helper disassembly"
     },
     {
       "path": "src/main/smali/org/haotian/leicaport/R1VideoStop.smali",
-      "sha256": "e17453b7ca72d06de7b68dcba645c61e9104e5a75f2eb796c74ddc1c2307703d",
+      "sha256": "6cfa6e87e642e2d13396671f00647078a69de246265707e79a4c07f7eb0ecd36",
       "origin": "R1-d original leicaport helper disassembly"
     }
   ]
