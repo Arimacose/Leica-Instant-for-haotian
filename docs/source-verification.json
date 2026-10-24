@@ -1,0 +1,18 @@
+{
+  "scope": "Published original Java and Smali adaptation helpers only; not the complete APK",
+  "java_source_files": 22,
+  "palette_regressions": "passed",
+  "smali_source_files": 30,
+  "release_identity_normalization": "passed",
+  "reference_apk_sha256": "e0b1a7aab318330a71cc2231d681b55478b8c8021be5a842c443248fb20f66b6",
+  "released_class_comparison": "passed",
+  "routing_class_comparison": "passed",
+  "artifacts": {
+    "helpers.jar": "9e195ac50018209d89ebfcc90cd5d1ce498255d98ec93fb2758591e9e060307b",
+    "helpers-r1-d.dex": "b74acf2fa94d4ea43aab3cde06e52f979fa3645cdbe2c3fe9f817e0c595a9b48",
+    "routing-helpers.dex": "cba918bb23f0f2fbab7ec18d1a87cd21da29e5802307788a4f0c7a308cc9b6ff"
+  },
+  "verified_on": "2026-10-24",
+  "java_generated_classes_compared": 155,
+  "smali_classes_compared": 30
+}
