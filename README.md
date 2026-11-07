@@ -1,6 +1,8 @@
 # Leica一瞬 for haotian
 
-面向小米 15 Pro（haotian）的徕卡一瞬适配。当前正式发布 **R1-d**。
+面向小米 15 Pro（haotian）的徕卡一瞬适配。当前正式发布 **R1-e**。
+
+[下载最新 APK](https://github.com/Arimacose/Leica-Instant-for-haotian/releases/download/R1-e/Leica-R1-e.apk) · [查看 R1-e Release](https://github.com/Arimacose/Leica-Instant-for-haotian/releases/tag/R1-e)
 
 **本仓库现公开 R1-d 的部分原创适配层源码，采用 MIT 许可。完整 APK 包含第三方相机代码和资源，不属于整体 MIT 开源；本仓库也不能单独从源码构建完整相机 APK。** 许可边界见 [LICENSING.md](LICENSING.md)。
 
@@ -10,13 +12,20 @@ the complete camera APK depends on third-party components outside that grant.
 
 | 版本 | 说明 |
 | --- | --- |
-| R1-d（Latest） | 优先 OEM 长焦输入，保留原包徕卡策略，包含调色盘与专业模式适配 |
+| R1-e（Latest） | 新增实况照片，修复调色盘遮挡画面，大幅优化成片速度，并尝试优化冷启动速度 |
 | R2-c | OEM 优先，按环境和输出组合隔离与回退；构建/静态验证通过，本版跨系统和录像效果尚未实测 |
 
 - 两包共用包名与数据，只能择一安装。
 - 未修改官方相机、system 或 vendor。该相机可以与官方相机共存，不影响官方相机功能。
 - 本相机移植自徕卡一瞬相机，添加了 M9、M3、M10R 三种徕卡滤镜及对应算法，保留了基础的 AI 相机功能，并在原包基础上加入了录像，适配了 Dolby Vision。
-- 由于成片后需要在后台运算加入徕卡滤镜，成片后需等待数秒才能预览照片为正常现象。
+- 拍摄后会在后台运算加入徕卡滤镜，R1-e 的处理时间应当普遍在两秒左右。
+
+## R1-e 更新日志
+
+- 增加了拍摄实况照片功能
+- 修复打开调色盘遮挡画面的问题
+- 大幅优化成片速度，现在的处理时间应当普遍在两秒左右
+- 尝试优化冷启动速度
 
 ## 已公开的源码
 
@@ -39,7 +48,8 @@ the complete camera APK depends on third-party components outside that grant.
 
 ## 历史版本
 
-R1-d（Latest）  
+R1-e（Latest）  
+R1-d  
 R1-c  
 R2-c  
 R1 1006a  
